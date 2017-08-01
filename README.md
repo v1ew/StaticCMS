@@ -1,0 +1,2 @@
+# StaticCMS
+Static CMS
